@@ -1,0 +1,1 @@
+Based on SQLCop (http://sqlcop.lessthandot.com/), I made my own rule set other than sqlcop defaults so it can follow my company's standards, and capture very common mistakes the developers usually do. 
